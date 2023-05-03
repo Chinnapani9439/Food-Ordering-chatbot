@@ -57,6 +57,19 @@ Here in this image we can see the chatbot intracting with the users:
 ![image](https://github.com/Chinnapani9439/Wends_chatbot/blob/main/chatbot.png)
 
 
+External API and Databases
+
+The Backend Services as Webhook to Chat Bot application is served via Flask Restful API
+
+The current explicit features provided by Backend Services are:
+1) Addition of User selected choices to Cart
+2) Removal of Items from Cart
+3) Total Bill of Items in Cart
+4) Cataloging of User provided information and ordered items to BigQuery (DataBase) 
+
+Few Implicit Features provided by Webhook includes conditional trigger of few features (intents)
+Based on user conversation flow
+
 
 *********************************** THANK YOU ************************************
 
