@@ -3,7 +3,7 @@
 ## Process
 ![image](https://github.com/Chinnapani9439/Wends_chatbot/blob/main/process_dig.png)
 
-## Steps befor running the code
+## Steps before running the code
 
 Creating an Agent:
 1) Start by clicking on the “Create Agent” tab
